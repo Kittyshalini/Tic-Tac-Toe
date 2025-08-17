@@ -36,4 +36,4 @@ tic-tac-toe/
 
 ---
 
-# Made with ❤️ by Shalini Mishra
+Made with ❤️ by Shalini Mishra
