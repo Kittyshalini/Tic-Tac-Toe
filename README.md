@@ -3,10 +3,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 # 🎮 Tic-Tac-Toe Game
 
-A simple, clean, and interactive Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**.
-
-![Tic-Tac-Toe Screenshot](screenshot.png) <!-- Optional: Add a real screenshot from your project -->
-
+A simple, clean, and interactive Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**
 ---
 
 ## 🚀 Features
@@ -29,24 +26,14 @@ A simple, clean, and interactive Tic-Tac-Toe game built with **HTML**, **CSS**, 
 
 ## 📂 Project Structure
 
-'''
 tic-tac-toe/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
 ├── script.js # JavaScript logic
 └── README.md # This file
-'''
 
 
 ---
-
-## 🧑‍💻 How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-```
 
 # Made with ❤️ by Shalini Mishra
